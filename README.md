@@ -50,10 +50,11 @@ Technical Profile
  Education
 ----------------------------
 
-* **University of Washington Coding Bootcamp** - 6 months (part time program) intensive course focused on Full Stack Web Development - Graduated 04/2019 - Bellevue, WA 2019.
+###University of Washington Coding Bootcamp 
+6 months (part time program) intensive course focused on Full Stack Web Development (Graduated 04/2019 - Bellevue, WA)
 + **Lessons:** HTML5, CSS3, Bootstrap, JavaScript, JSON, AJAX, API, Java, Handlebars, jQuery, Node.js, Express, React.js, Firebase, Handlebars, MySQL, Sequelize, MongoDB, Mongoose, Command Line/Git, Heroku, Scraping. 
-
-* **Central Washington University** - Bachelor in Accounting (Des Moines 2011 - 2014)  
+###Central Washington University### 
+Bachelor in Accounting (Des Moines 2011 - 2014)  
 
 
 Professional Experience
