@@ -50,8 +50,7 @@ Technical Profile
  Education
 ----------------------------
 
-**University of Washington Coding Bootcamp** - Bellevue, WA (Graduated 04/2019)
-_6 months (part time program) intensive course focused on Full Stack Web Development_
+**University of Washington Coding Bootcamp** - Bellevue, WA (Graduated 04/2019). This is 6 months (part time program) intensive course focused on Full Stack Web Development.
 + _**Lessons:**_ HTML5, CSS3, Bootstrap, JavaScript, JSON, AJAX, API, Java, Handlebars, jQuery, Node.js, Express, React.js, Firebase, Handlebars, MySQL, Sequelize, MongoDB, Mongoose, Command Line/Git, Heroku, Scraping. 
 
 **Central Washington University** - Des Moines (2011 - 2014)  
@@ -62,28 +61,38 @@ Professional Experience
 -----------------------
 
 
-### Microsoft LEAP Apprenticeship (via InConsulting, Inc) Redmond, WA
+### Web Developer - Seattle, WA. (Self-Employed) 
 
-_Software Design Engineer, April 2019 - August 2019_
+_October 2017 - Present_
 
-* Developed a Virtual Reality Blackjack game for the AltspaceVR social platform.
-* Coordinated with both the Altpspace Art and Design team to implement UI/UX features with gameplay functionality.
-* Collaborated with other Software Design Engineer Apprentices and Technical Program Manager Apprentices to design functional       applications that follow the AGILE process.
-* Instructed on coding practices that are included but not limited to single responsibility principle, Test Driven Devolopment, and regular code reviews/refactorization.
+* I can build a full-stack application from front-end web to back-end. I use HTML5, CSS3, JavaScript, jQuery, ReactJS, Handlebars, or Bootstrap to build the front-end. I also use MySQL, Firebase, or MongoDB for the back-end. I'm currently working on building restaurant website template which I will use to help family and friends who need a website for their restaurant.
 
+### The Odom Corporation - Bellevue, WA.
 
-### United States Navy, Okinawa, Japan
+_IT Assistant / Cost Accountant, June 2017 - September 2019_
 
-_Hospital Corpsman, August 2012 - May 2016_
+* Created contents and designed the company wide intranet SharePoint sites.
+* Coordinated with multiple department heads to integrate contents in a consistent format.
+* Recommended new data and report formats to be used through SharePoint to support accounting and logistical functions.
+* Handled with accounting tasks such as financial review, create analysis reports on freight rates to find a way help saving freight cost on transportation.
 
-* Provided Clinical Screenings and Periodic Health Assessments to Active Duty service members and their family members.
-* Performed First-Aid and Emergency Care for training operations conducted by various units within the United States Marine Corps.
-* Revised and implemented medical supply allowance lists which increased the inventory accuracy by 14%, and maintained inventory accountability at 97%.
-* Maintained medical records for (3) separate units within Marine Corps. Base Camp Hansen; ensuring 100% deployment readiness for active duty service members.
+### Investor Capital Group, LLC - Seattle, WA. 
+_Accountant, June 2014 - June 2017_
 
-### Embassy CES, Manhattan, NY
-_Activity Leader, June 2012 - August 2012_
+* Reconcile travel program credit cards.
+* Review and process expense reports and bank records.
+* Review financial statements. 
+* Research, track, and resolve accounting problems.
 
-* Guided foreign students through educational tours in Manhattan and facilitated various recreational activity sessions.
-* Advocated for the implementation of the buddy system and utilized the FindMyFriends application to significantly reduce tour mishaps.
-* Encouraged students to use their newly acquired languages skills in real life scenarios.
+### Bank of America - Seattle, WA. 
+_Bank Teller, April 2013 - June 2014_
+
+* esolve issues concerning transaction errors.
+* Identify customer needs and referring financial products and services.
+* Contribute in a positive team work environment and Strong oral and written communication skills. 
+
+### South Seattle Community College - Seattle, WA. 
+_Math Tutor, August 2009 - February 2012_
+
+* Guided students with their classwork in Calculus, Accounting, and Economics.
+* Show students accounting techniques such as generating financial reports using Microsoft Excel.
