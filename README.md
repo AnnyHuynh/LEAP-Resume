@@ -87,7 +87,7 @@ _Accountant, June 2014 - June 2017_
 ### Bank of America - Seattle, WA. 
 _Bank Teller, April 2013 - June 2014_
 
-* esolve issues concerning transaction errors.
+* Resolve issues concerning transaction errors.
 * Identify customer needs and referring financial products and services.
 * Contribute in a positive team work environment and Strong oral and written communication skills. 
 
