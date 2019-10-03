@@ -1,27 +1,24 @@
 Anny Huynh
 ===============
 
-206-696-6586| (EMAIL) Anny_huynh32@yahoo.com | (GITHUB) https://github.com/tyrellgordon | (BLOG) https://otakuoverdose.home.blog/
+206-696-6586| (EMAIL) Anny_huynh32@yahoo.com | (GITHUB) https://github.com/AnnyHuynh| (Website) https://annyhuynh.github.io/Resume/
 
 
 Summary
 ------------------------
-A Software Engineer with a keen interest in Game Development. During my tenure as a medic embedded in a Marine Infantry battalion, I often spent my extra time tinkering with malfunctioning computers on the field. My peers and superiors soon took notice and made me the IT liaison for my clinic branch; it was during this time I discovered programming and my love for troubleshooting problems. Since my enlistment, I've continued to seek new ways to hone my craft. As such, I've recently completed the Microsoft LEAP Apprenticeship working with AltspaceVR team. During my time with the team I've learned about the AGILE process, Azure Deployment,  game logic and gameplay design and leveraging the Mixed Realiy Extension SDK.
+I am a full-stack web developer with an accounting/financing background. A friend introduced me into coding nearly 2 years ago, and I have been loving it since then. I started out as a self-taught web developer by learning HTML, CSS, & Javascript from online tutorials (Youtube, Free Code Camp, Stack Overflow, etc.) I strive to learn new technologies because I'm fascinated with how technologies can connect people together, and help people work more efficiently. I'm also passionate in digging deeper into developing and designing websites which brings me to get enrolled in Web Development Program at the University Of Washington. I love using my creativities and skills to design websites. I also love the mental challenge that programming presents, and I appreciate how an idea is transformed into reality. The more I code, the more exciting I get to grind deeper into programming and to be a better developer. 
 
 Technical Projects
 -------------------------
 
 
- ### MRE Blackjack (AltspaceVR)
+ ### Movies of All Time 
  
-_https://github.com/AltspaceVR/mre-blackjack
+_https://annyhuynh.github.io/Movie-Website/
 
- _A virutal reality Blackjack game to be played within the AltpsaceVR social platform_
-+ Used Unity3D to render the graphical components of the experience.
-+ Utilized the Mixed Reality SDK and Typescript to develop the primary game mechanics.
-+ Leveraged Openode and Azure Dev Ops to deploy the application pubically for users to play the game in AltspaceVR.
-
-
+ _This app helps users search for all old and new movies, and find all movies that are available at nearby locations. Users can search for movies by Genre, Period, or Tittle._
++ Technologies Used: HTML, CSS3, JavaScript, jQuery, Bootstrap, AJAX, API, and Git.
++ API Used: https://api.themoviedb.org ; https://api.internationalshowtimes.com
 
 
  ### XQuest 
