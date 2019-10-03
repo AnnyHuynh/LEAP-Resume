@@ -14,11 +14,11 @@ Technical Projects
 
  ### Movies of All Time 
  
-_https://annyhuynh.github.io/Movie-Website/
+_https://annyhuynh.github.io/Movie-Website/_
 
  _This app helps users search for all old and new movies, and find all movies that are available at nearby locations. Users can search for movies by Genre, Period, or Tittle._
-+ Technologies Used: HTML, CSS3, JavaScript, jQuery, Bootstrap, AJAX, API, and Git.
-+ API Used: https://api.themoviedb.org ; https://api.internationalshowtimes.com
++ _**Technologies Used:**_ HTML, CSS3, JavaScript, jQuery, Bootstrap, AJAX, API, and Git.
++ _**API Used:**_ https://api.themoviedb.org ; https://api.internationalshowtimes.com
 
 
  ### XQuest 
