@@ -14,7 +14,7 @@ Technical Projects
 
  ### Movies of All Time 
  
-_https://annyhuynh.github.io/Movie-Website/ | (GitHub Code) https://github.com/AnnyHuynh/Movie-Website.git | (DEMO) https://drive.google.com/file/d/1XUjKFYK9aunDhxpFYa3DHH2fhk_4ktK2/view_
+_(Project) https://annyhuynh.github.io/Movie-Website/ | (GitHub Code) https://github.com/AnnyHuynh/Movie-Website.git | (DEMO) https://drive.google.com/file/d/1XUjKFYK9aunDhxpFYa3DHH2fhk_4ktK2/view_
 
  _This app helps users search for all old and new movies, and find all movies that are available at nearby locations. Users can search for movies by Genre, Period, or Tittle._
 + _**Technologies Used:**_ HTML, CSS3, JavaScript, jQuery, Bootstrap, AJAX, API, and Git.
@@ -22,14 +22,14 @@ _https://annyhuynh.github.io/Movie-Website/ | (GitHub Code) https://github.com/A
 
  ### Felicity The Bootcamp 
  
-_https://felicity-bootcamp.herokuapp.com/ | (GitHub Code) https://github.com/AnnyHuynh/Felicity-The-BootCamp.git| (DEMO) https://drive.google.com/file/d/1pOjabURNf3Jss4uSNvP0b1_Q7nEmJ29s/view_
+_(Project) https://felicity-bootcamp.herokuapp.com/ | (GitHub Code) https://github.com/AnnyHuynh/Felicity-The-BootCamp.git| (DEMO) https://drive.google.com/file/d/1pOjabURNf3Jss4uSNvP0b1_Q7nEmJ29s/view_
 
  _This app helps students find a study group that is suitable with their available schedules, and locations. Once login, student can answer some survey questions by clicking on the Edit button on the top right corner. The survey questions are to ask for student available schedules and locations. Once student completes the survey, the app will find a studying group that matches with the student criteria._
 + _**Technologies Used:**_ Handlebars, Express, Nodejs, MySQL, Sequelize, HTML5, CSS3, JavaScript, Bootstrap, authentication-strategy, passport-js,Heroku, and Git.
 
 ### Pikachu Clicky Game 
 
-_https://secure-basin-15429.herokuapp.com/ | (GitHub Code) https://github.com/AnnyHuynh/Pikachu-Clicky-Game.git | (DEMO) https://drive.google.com/file/d/1VHHJiD1vikllCz7nQHvIJ_uDyoOrYNHt/view_
+_(Project) https://secure-basin-15429.herokuapp.com/ | (GitHub Code) https://github.com/AnnyHuynh/Pikachu-Clicky-Game.git | (DEMO) https://drive.google.com/file/d/1VHHJiD1vikllCz7nQHvIJ_uDyoOrYNHt/view_
 
  _Users simply click on any picture to earn a point, but cannot click on the same picture twice. Each time a picture is clicked, positions of the pictures are shuffled._
 + _**Technologies Used:**_ HTML5, CSS3, React.js, Bootstrap, Heroku, and Git.
@@ -40,15 +40,19 @@ Technical Profile
 
 ### Programming Languages/Frameworks :
 
- Ruby, Ruby on Rails, SQL, JavaScript, React, C#, Unity, Typescript
+ HTML, CSS, Boothstrap, JavaScript, jQuery, React, Node.js, SQL,  MONGO, Firebase, Local Storage
+
+ ### Tools :
+
+ Github, Heroku 
 
 
  Education
 ----------------------------
 
-* Flatiron School - 15-week intensive course focused on Web Development - Brooklyn, NY 2018 + Full Stack Web Development, Ruby on Rails and JavaScript web immersive program.
+* University of Washington Coding Bootcamp - 6 months (part time program) intensive course focused on Full Stack Web Development. Lessons: HTML5, CSS3, Bootstrap, JavaScript, JSON, AJAX, API, Java, Handlebars, jQuery, Node.js, Express, React.js, Firebase, Handlebars, MySQL, Sequelize, MongoDB, Mongoose, Command Line/Git, Heroku, Scraping - Graduated 04/2019 - Bellevue, WA 2019 .
 
-* Bergen Community College - Paramus, NJ, 2016 - 2018 + Engineering Science 
+* Central Washington University - Des Moines 2011 - 2014 + Bachelor in Accounting. 
 
 
 Professional Experience
