@@ -14,30 +14,25 @@ Technical Projects
 
  ### Movies of All Time 
  
-_https://annyhuynh.github.io/Movie-Website/_
+_https://annyhuynh.github.io/Movie-Website/ | (GitHub Code) https://github.com/AnnyHuynh/Movie-Website.git | (DEMO) https://drive.google.com/file/d/1XUjKFYK9aunDhxpFYa3DHH2fhk_4ktK2/view_
 
  _This app helps users search for all old and new movies, and find all movies that are available at nearby locations. Users can search for movies by Genre, Period, or Tittle._
 + _**Technologies Used:**_ HTML, CSS3, JavaScript, jQuery, Bootstrap, AJAX, API, and Git.
 + _**API Used:**_ https://api.themoviedb.org ; https://api.internationalshowtimes.com
 
-
- ### XQuest 
+ ### Felicity The Bootcamp 
  
-_https://github.com/tyrellgordon/xquest | (DEMO) https://xquestgameapp.herokuapp.com/| (VIDEO) https://www.youtube.com/watch?v=Cb38zoBnzJE&feature=youtu.be_
+_https://felicity-bootcamp.herokuapp.com/ | (GitHub Code) https://github.com/AnnyHuynh/Felicity-The-BootCamp.git| (DEMO) https://drive.google.com/file/d/1pOjabURNf3Jss4uSNvP0b1_Q7nEmJ29s/view_
 
- _A retro-style 16-BIT Dungeon Exploration game that pays homage to classic SNES titles._
-+ Utilized React and Semantic UI/ Custom CSS to render the Front-End for leaderboard functionality. 
-+ Used Unity and C# to develop the primary game mechanics.
-+ Employed UnityWebRequest to persist player information.
-+ Designed the database schema to build Rails API Back-End
+ _This app helps students find a study group that is suitable with their available schedules, and locations. Once login, student can answer some survey questions by clicking on the Edit button on the top right corner. The survey questions are to ask for student available schedules and locations. Once student completes the survey, the app will find a studying group that matches with the student criteria._
++ _**Technologies Used:**_ Handlebars, Express, Nodejs, MySQL, Sequelize, HTML5, CSS3, JavaScript, Bootstrap, authentication-strategy, passport-js,Heroku, and Git.
 
-### CleanChat 
+### Pikachu Clicky Game 
 
-_https://github.com/tyrellgordon/cleanchat | (VIDEO) https://www.youtube.com/watch?v=hwj1YedcbJY&feature=youtu.be_
+_https://secure-basin-15429.herokuapp.com/ | (GitHub Code) https://github.com/AnnyHuynh/Pikachu-Clicky-Game.git | (DEMO) https://drive.google.com/file/d/1VHHJiD1vikllCz7nQHvIJ_uDyoOrYNHt/view_
 
- _A simply designed chatroom application for alias-based interaction between clients._
-+ Used React and Semantic UI to stylize and provide functionality to the web application 
-+ Employed Web Sockets to facilitate cross-client communication.
+ _Users simply click on any picture to earn a point, but cannot click on the same picture twice. Each time a picture is clicked, positions of the pictures are shuffled._
++ _**Technologies Used:**_ HTML5, CSS3, React.js, Bootstrap, Heroku, and Git.
 
 
 Technical Profile
